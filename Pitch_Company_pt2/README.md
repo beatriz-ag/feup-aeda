@@ -1,3 +1,3 @@
-# Aeda-1st-project---Pitch-Company
+# Aeda-2nd-project---Pitch-Company
 
 //To be graded
