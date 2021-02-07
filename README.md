@@ -5,4 +5,4 @@ Pitch - Lift Company - Project developed for AEDA.
 
 * 2nd part: introduction of non-linear structures
 
-~Developed with @margarida27 && @maildejoliveira (best trio xoxo)
+~Developed with <a href="https://github.com/margaridav27">Margarida Vieira</a> && <a href="https://github.com/maildejoliveira">Matilde Oliveira</a> (best trio xoxo)
