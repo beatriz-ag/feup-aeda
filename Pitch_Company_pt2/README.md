@@ -1,3 +1,3 @@
 # Aeda-2nd-project---Pitch-Company
 
-//To be graded
+Grade 17.4
